@@ -28,7 +28,9 @@
 
 ![Dev 3 - T-Tests on Suspension Coils](https://github.com/Robeliom15/MechaCar_Statistical_Analysis/blob/main/Images/Dev%203%20-%20T-Tests%20on%20Suspension%20Coils.png?raw=true)
 
--
+- From looking at the first two lots we can see that they have a similar p-value. Lot, one has a p-value of 1 while lot two has a p-value of 0.6072. This tells us that we do not reject the null 
+
+- Lot three tells us a different story overall. The p-value is 0.04169 which means that we reject the null in favor of the alternative. This tells us that something happened during the process, and something needs to be checked. If not then the suspension coils may need to be removed to avoid any problems.  
 
 ## Study Design: MechaCar vs Competition
 
