@@ -15,14 +15,13 @@
 - The linear model has an r-squared value of 0.7149 or 71%. This shows that the models do predict the mpg of MechaCar prototypes effectively.
 
 ## Summary Statistics on Suspension Coils
-
 ![Dev 2-1 - Total_sum](https://github.com/Robeliom15/MechaCar_Statistical_Analysis/blob/main/Images/Dev%202-1%20-%20Total_sum.png?raw=true)
 
--
+- When looking at the summary table we can see that the PSI variance does not exceed 100 which is what the goal aims for.
 
 ![Dev 2-1 - Lot Sum](https://github.com/Robeliom15/MechaCar_Statistical_Analysis/blob/main/Images/Dev%202-1%20-%20Lot%20Sum.png?raw=true)
 
-- 
+- The same can be said for the first two lots which have a variance under 100, but this cannot be said with lot 3, which has a variance of 170.3. This lot will not meet the design specs that MechaCar is looking for. 
 
 
 ## T-Tests on Suspension Coils
