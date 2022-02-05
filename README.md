@@ -8,21 +8,22 @@
 
 ![Dev 1 - Linear Regression to Predict](https://github.com/Robeliom15/MechaCar_Statistical_Analysis/blob/main/Images/Dev%201%20-%20Linear%20Regression%20to%20Predict%20MPG.png?raw=true)
 
--
+-The vehicle length and vehicle ground clearance show some likelihood of non-random amounts of variance to the model. Additionally, these two will have a big impact on the mpg (miles per gallon) for the prototype. 
 
--
+- Looking at the p-value of 5.35e-11 which is below the significance level of 0.05%. This shows that we have enough evidence to reject then null which shows us that the linear model is not zero. 
 
--
+-The linear model has an r-squared value of 0.7149 or 71%. This shows that the models do predict the mpg of MechaCar prototypes effectively.
 
 ## Summary Statistics on Suspension Coils
+
+![Dev 2-1 - Total_sum](https://github.com/Robeliom15/MechaCar_Statistical_Analysis/blob/main/Images/Dev%202-1%20-%20Total_sum.png?raw=true)
+
+-
 
 ![Dev 2-1 - Lot Sum](https://github.com/Robeliom15/MechaCar_Statistical_Analysis/blob/main/Images/Dev%202-1%20-%20Lot%20Sum.png?raw=true)
 
 - 
 
-![Dev 2-1 - Total_sum](https://github.com/Robeliom15/MechaCar_Statistical_Analysis/blob/main/Images/Dev%202-1%20-%20Total_sum.png?raw=true)
-
--
 
 ## T-Tests on Suspension Coils
 
