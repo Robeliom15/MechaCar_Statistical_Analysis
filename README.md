@@ -34,3 +34,21 @@
 
 ## Study Design: MechaCar vs Competition
 
+
+### Metrics
+
+- Type of car (run on gas or electric)
+- Current Price
+- Resale Value
+- Safety Rating
+- Miles per Gallon
+- Average Yearly Cost
+
+### Hypothesis
+
+- Null Hypothesis (Ho): MechaCar is priced appropriately based on its performance and safety record.
+
+- Alternative Hypothesis (Ha): MechaCar is not priced appropriately based on its performance and safety record.
+
+### Statistical Test
+A multiple linear regression would be used to determine the factors that have the highest correlation with the selling or which combination highest impact on price.
